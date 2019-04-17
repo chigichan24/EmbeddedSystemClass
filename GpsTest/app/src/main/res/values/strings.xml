@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GpsTest</string>
+    <string name="text_title">方位センサー</string>
+    <string name="button_get_orientation">方位取得</string>
+    <string name="realtime">RealTime</string>
+    <string name="text_title_z">z軸周りの方位角</string>
+    <string name="text_title_x">x軸周りの方位角</string>
+    <string name="text_title_y">y軸周りの方位角</string>
+</resources>
