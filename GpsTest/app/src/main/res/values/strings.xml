@@ -1,9 +1,21 @@
 <resources>
-    <string name="app_name">GpsTest</string>
+    <string name="app_name">IntentTest</string>
     <string name="text_title">方位センサー</string>
     <string name="button_get_orientation">方位取得</string>
     <string name="realtime">RealTime</string>
     <string name="text_title_z">z軸周りの方位角</string>
     <string name="text_title_x">x軸周りの方位角</string>
     <string name="text_title_y">y軸周りの方位角</string>
+
+    <string name="text_gps">GPS</string>
+    <string name="text_wifi">WiFi</string>
+    <string name="text_latitude">latitude</string>
+    <string name="text_longitude">longitude</string>
+    <string name="text_accuracy">accuracy</string>
+    <string name="text_altitude">altitude</string>
+
+    <string name="button_orientation">方位を計測する</string>
+    <string name="button_location">位置を計測する</string>
+
+    <string name="button_get">取得</string>
 </resources>
