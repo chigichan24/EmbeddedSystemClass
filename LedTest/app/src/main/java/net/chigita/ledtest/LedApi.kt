@@ -10,6 +10,6 @@ import retrofit2.http.Query
  */
 
 interface LedApi {
-    @GET("/")
+    @GET("/~pi/ledtest.php/")
     fun switchLed(@Query("num") number: Int, @Query("stat") status: Int): Call<Unit>
 }
